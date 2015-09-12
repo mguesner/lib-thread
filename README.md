@@ -1,3 +1,3 @@
 # lib-thread
 
-small c++ pool thread lib
+small c++ pool thread library
